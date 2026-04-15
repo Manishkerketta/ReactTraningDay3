@@ -1,0 +1,15 @@
+
+/* Day3 Task3 */
+
+:root {
+  --primary-color: #6200ee;
+}
+
+/* Day3 Task1 */
+.btn {
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border-radius: 4px;
+  
+}
